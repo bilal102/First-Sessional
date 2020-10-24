@@ -1,0 +1,73 @@
+.headerdesign {
+    padding-right: 70px; 
+}
+
+a:link {
+    text-decoration: none;
+    font-size: 15px;
+    padding: 12px;
+    
+  }
+
+  a:hover {
+    text-decoration: underline;
+    
+  }
+
+  .con1{
+    background-color:#EEF0F3;
+    padding-top: 70px;
+    padding-left: 80px;
+    padding-bottom: 70px;
+  }
+.con1 img{
+  width: 100%;
+}
+.bot{
+  background-color:#1E1E1E;
+  color:white;
+  padding: 20px;
+}
+.bot ul li{
+  text-align: left;
+}
+.rig{
+  text-align: left;
+  color: black;
+  background-color: whitesmoke;
+  height: auto;
+  width: 400px;
+  padding-top: 20px;
+}
+.rig ul li{
+  list-style:square;
+} 
+.thirdpart{
+  background-color: white; 
+  color: black;
+  text-align: left;
+  padding-top: 20px;
+  height: auto;
+}
+.side ul li{
+list-style: filled circle;
+}
+.side{
+  text-align: left;
+  line-height: 37px;
+}
+
+.boxes{
+  padding-top: 40px;
+  padding-left: 20px;
+}
+.seclast{
+  padding-top: 30px;
+}
+
+.footer{
+  width: 100%;
+  background-color: rgb(34, 33, 33);
+  color: whitesmoke;
+  padding: 45px;
+}
